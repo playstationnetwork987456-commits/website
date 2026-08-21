@@ -5,7 +5,7 @@ A classic reaction-based gamepad with STM32U545RETx microcontroller, playable vi
 :::info
 
 **Author**: Furkan Korkmaz  
-**GitHub Project Link**: https://github.com/UPB-PMRust-Students/fils-project-2026-playstationnetwork987456-commits
+**GitHub Project Link**: https://github.com/UPB-PMRust-Students/fils-project-2026-FurkanKorkmaz1
 
 :::
 
@@ -40,9 +40,9 @@ This project demonstrates embedded game development on microcontrollers. It comb
 * Game state is converted to HID gamepad commands
 * PC receives gamepad data via USB and renders graphics/audio
 
-!\[snake_game_architecture](./images/snake_game_architecture.svg)
+!\[snake\_game\_architecture](./images/snake\_game\_architecture.svg)
 
-!\[tiny\_knight\_architecture](./images/tiny_knight_architecture.svg)
+!\[tiny\_knight\_architecture](./images/tiny\_knight\_architecture.svg)
 
 \---
 
