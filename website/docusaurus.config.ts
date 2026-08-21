@@ -21,7 +21,7 @@ const config: Config = {
   projectName: "pmrust.pages.upb.ro", // Usually your repo name.
   trailingSlash: false,
 
-  onBrokenLinks: "warn",
+  onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
   // Even if you don"t use internationalization, you can use this field to set
